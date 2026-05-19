@@ -21,7 +21,7 @@ Características del Sistema de Inscripción a Exámenes
 
 10-Registro y administración de cuotas estudiantiles.
 
-11-Control de pagos realizados.
+11-Control de pagos realizados. (esto es a revisar)
 
 12-Historial completo de cuotas de los alumnos.
 
