@@ -1,4 +1,5 @@
 ## Objetivo General? 
+Desarrollar e implementar una plataforma web integral para el Instituto Superior San Gregorio que centralice la gestión académica y administrativa, reemplazando el uso de múltiples archivos Excel por un sistema único y seguro. El sistema permitirá automatizar la inscripción a mesas de examen, el control de cuotas, la administración de actas y el seguimiento académico de los estudiantes, optimizando tiempos y reduciendo errores humanos.
 
 ## Objetivos Especificos??  
 
